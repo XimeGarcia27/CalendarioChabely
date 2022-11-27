@@ -1,0 +1,64 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    font-size: 1rem;
+    text-decoration: underline;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    line-height: 2;
+}
+
+h2 {
+    color: #000000;
+    line-height: 2;
+    font-weight: 200;
+    font-size: 1.5rem;
+}
+
+.insertarRegistro {
+    color: #000000;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    background: #333;
+    color: #fff;
+    position: flex;
+    top: -10;
+    left: 0;
+    z-index: 100;
+}
+
+.inicio {
+    text-align: right;
+}
+
+.estado {
+    font-size: 1.5rem;
+    color: #000000;
+    line-height: 1;
+    font-weight: 200;
+}
+
+body {
+    font-size: 20px;
+    line-height: 30px;
+    background: #fff;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    position: flex;
+}
+
+p {
+    text-align: center;
+    font-size: 1rem;
+}
